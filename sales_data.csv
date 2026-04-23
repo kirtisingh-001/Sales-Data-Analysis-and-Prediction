@@ -1,0 +1,8 @@
+OrderID,Product,Region,Sales,Quantity,Discount
+1,Laptop,India,50000,2,10
+2,Phone,USA,30000,3,5
+3,Tablet,India,20000,1,0
+4,Monitor,UK,15000,2,8
+5,Keyboard,India,5000,5,2
+6,Mouse,USA,8000,4,3
+7,Printer,UK,12000,1,7
